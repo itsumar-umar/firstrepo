@@ -1,3 +1,3 @@
 # firstrepo
 
-First Github 
+First Github Repo
